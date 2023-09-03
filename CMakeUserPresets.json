@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/mheshamg/workspace/src/HomeAutomation/build/Release/generators/CMakePresets.json"
+    ]
+}
