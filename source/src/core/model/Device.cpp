@@ -1,8 +1,8 @@
 #include <Device.h>
 
-using HomeAutomation::Device;
+using Core::Device;
 
-std::ostream& HomeAutomation::operator<<(std::ostream& os, Device& Device)
+std::ostream& Core::operator<<(std::ostream& os, Device& Device)
 {
     return os<<"Device with id: "<<Device.id;
 }

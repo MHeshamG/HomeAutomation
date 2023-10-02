@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 
-namespace HomeAutomation
+namespace Core
 {
     class Device
     {
