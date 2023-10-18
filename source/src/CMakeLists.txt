@@ -7,4 +7,4 @@ add_executable(HomeAutomation
   main.cpp
 )
 
-target_link_libraries(HomeAutomation PUBLIC dependencies)
+target_link_libraries(HomeAutomation PUBLIC core dependencies)
